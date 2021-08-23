@@ -1,0 +1,3 @@
+https://refactoring.guru/ru/design-patterns/abstract-factory/java/example#lang-features
+
+https://refactoring.guru/ru/design-patterns/abstract-factory
